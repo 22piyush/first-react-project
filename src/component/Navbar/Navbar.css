@@ -1,0 +1,21 @@
+.navbar{
+    background-color: black;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.nav-brand{
+         display: inline-block;
+         color: white;
+         margin-right: 80%;
+}
+.nav-menu{
+         display: inline-block;
+         color: white;
+         margin-left: 15px;
+         text-decoration: none;
+         
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
